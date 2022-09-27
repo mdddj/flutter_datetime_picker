@@ -1,4 +1,14 @@
-# Flutter Datetime Picker
+# Flutter Datetime Picker Pro
+
+
+
+
+### This is the repair version. Add the pub reference mode. It supports flutter3.3.2+
+
+Original GitHub:  [(Pub) flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)
+
+
+Author: [Realank](https://github.com/Realank)
 
 [(Pub) flutter_datetime_picker](https://pub.dev/packages/flutter_datetime_picker)
 
