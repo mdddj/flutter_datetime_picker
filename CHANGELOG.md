@@ -1,3 +1,6 @@
+## 3.0.1
+
+* add export some dart file
 ## 3.0.0
 
 * Support flutter 3.3.2

@@ -9,6 +9,12 @@ import 'src/datetime_picker_theme.dart';
 import 'src/i18n_model.dart';
 
 
+export 'src/i18n_model.dart';
+export 'src/datetime_util.dart';
+export 'src/date_format.dart';
+export 'src/date_model.dart';
+export 'src/datetime_picker_theme.dart';
+
 typedef DateChangedCallback(DateTime time);
 typedef DateCancelledCallback();
 typedef String? StringAtIndexCallBack(int index);
